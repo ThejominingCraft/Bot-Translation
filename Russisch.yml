@@ -1,1 +1,20 @@
+Rus.de
+
+//verweigerung
+{user}, ду дафст дас ницт! Мелде дас аинем Админ!
+
+//Nachrichten gelöscht
+{anzahl} нахрицтен гелоешт
+
+//Userban
+{banuser} вурде фон {moduser} гебант
+
+//userkick
+{kick User} вурде фон {moduser} гекикт
+
+//user warn
+{warnuser} вурде фон {moduser} гевант
+
+//prefix
+Маин} брефикс ист {prefix}!
 
